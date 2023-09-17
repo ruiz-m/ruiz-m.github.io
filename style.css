@@ -1,20 +1,17 @@
 html {
-	background-color: #dcf69f;
+	background-color: #FFD580;
 }
 
 .about-section {
- 	position: absolute;
-        top: 50%;
-        left: 50%;
-	width: 120vh;
-        height: 80vh;	
-        transform: translate(-50%, -50%)
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
 }
 
 .about-picture {
 	float: left;
-	height: 43vh;
-	width: 30vh;
-	margin-top: 0vh;
-	margin-right: 3vh;
+	height: 245px;
+	width: 150px;
+	margin-top: 0px;
+	margin-right: 3px;
 }
