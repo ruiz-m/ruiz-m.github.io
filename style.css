@@ -5,12 +5,12 @@ html {
 .about-section {
 	margin-left: auto;
 	margin-right: auto;
-	width: 50em;
+	width: 800px;
 }
 
 .about-picture {
 	float: left;
-	height: 245px;
+	height: 237px;
 	width: 150px;
 	margin-top: 0px;
 	margin-right: 3px;
