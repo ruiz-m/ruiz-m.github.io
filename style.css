@@ -2,6 +2,15 @@ html {
 	background-color: #dcf69f;
 }
 
+.links li {
+	text-indent: -1em;
+}
+
+.links li::before {
+	content: '◼';
+	padding-right: 5px;
+}
+
 .body-style {
 	font-size: 16px;
 	font-family: sans-serif;
